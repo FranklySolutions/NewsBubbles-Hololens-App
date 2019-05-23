@@ -16,23 +16,23 @@ News app for the Hololens.
 3. change buildsettings to universal windows platform 
 4. change buildsettings to the following:
 
-  -Set scene to = scenes/News Bubbles Hololens
-  -Target Device = Hololens
-  -Architure = x86
-  -Build type = D3D
-  -Tarket SDK = 10.0.18362
-  -Minimum platform version = 10.0.1763.0 
-  -Visual studio version = Visual studio 2017
-  -Build and run on = Local machine
-  -Build Configuration = Release
+  - Set scene to = scenes/News Bubbles Hololens
+  - Target Device = Hololens
+  - Architure = x86
+  - Build type = D3D
+  - Tarket SDK = 10.0.18362
+  - Minimum platform version = 10.0.1763.0 
+  - Visual studio version = Visual studio 2017
+  - Build and run on = Local machine
+  - Build Configuration = Release
   (other settings are standard unity) 
   
  5. Go To Edit-> Project settings -> player -> {windows logo} -> XR settings. and set to the following:
  
-  -Virtual reality supported: enabled
-  -Depth format : 16 bit depth
-  -Enable Depth Buffer sharing : enabled 
-  -Sterio rendering mode : single pass instanced
+  - Virtual reality supported: enabled
+  - Depth format : 16 bit depth
+  - Enable Depth Buffer sharing : enabled 
+  - Sterio rendering mode : single pass instanced
   
   6.  Go to Edit -> quality. below the windows logo click the downward arrow and set to very low.
   
