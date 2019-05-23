@@ -72,4 +72,18 @@ With the correcd scene loaded everything should now be ready to develop.
   - wait for the emulator to start 
   - run the solution again to start the app in the emulator
   
+ # building the app on a holoLens 
+ 
+ 1. Repeat step 1 to 5 from "Building and loading the app in the emulator".
+ 
+ 2. in the top part of the screen select: Master, x86 and device 
+ 
+ 3. connect the hololens and make sure it is turned on (and accesable form your pc) 
+ 
+ 3. Within visual studio code 2017 go to Debug and select start without debugging.
+ 
+ 4. wait until the solution is finished (it wil say so in the bottom of Visual studio code 2017) 
 
+ 5. when the solution is finished, disconnect the holoLens. the app should have started already or can be launched from the hololens itself.
+
+ # other notes about the development 
