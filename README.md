@@ -3,11 +3,11 @@ News app for the Hololens.
 
 # Required client setup
 
--Unity 2018.3 version
--Visual studio code 2017
--Windows SDK: 10.0.18362 and 10.0.17763.0
--MRTK toolkit: Microsoft.MixedReality.Toolkit.Unity.Foundation-v2.0.0-RC1-Refresh
--Hololens 2 emulator (windows Education or pro license needed)
+  Unity 2018.3 version
+  Visual studio code 2017
+  Windows SDK: 10.0.18362 and 10.0.17763.0
+  MRTK toolkit: Microsoft.MixedReality.Toolkit.Unity.Foundation-v2.0.0-RC1-Refresh
+  Hololens 2 emulator (windows Education or pro license needed)
 
 # Unity Setup
 
