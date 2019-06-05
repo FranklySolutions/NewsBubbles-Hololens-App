@@ -549,7 +549,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 00de5537de2ed601
+  metroCertificateNotAfter: 80d5eaef0d35d601
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: News Bubbles Hololens application

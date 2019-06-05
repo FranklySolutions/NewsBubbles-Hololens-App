@@ -7,5 +7,5 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/News Bubbles Hololens.unity
-    guid: 769cfbbb3cdab674db506d844e9379ac
+    guid: 6be7f368d3d14bb4ba01f351ff424577
   m_configObjects: {}
